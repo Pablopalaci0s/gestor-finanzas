@@ -181,4 +181,4 @@ npm run test:run
 
 ## Autor
 
-Pablo — Estudiante de Sistemas y Ciberseguridad, ESINTEC.
+Pablo Palacios — Estudiante de Sistemas y Ciberseguridad, ESINTEC.
