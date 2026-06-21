@@ -128,7 +128,7 @@ A partir de ahí se crearon manualmente las carpetas `components/`, `utils/`, `h
 4. Build command: `npm run build` · Output directory: `dist`.
 5. Despliega y copia la URL pública generada.
 
-**URL del despliegue:** _agregar aquí la URL de Vercel una vez desplegado_
+**URL del despliegue:** https://gestor-finanzas-dun.vercel.app/
 
 ## Subir el proyecto a GitHub
 
